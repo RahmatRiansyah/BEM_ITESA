@@ -1,0 +1,19 @@
+<svg id="visual" viewBox="0 0 960 540" width="960" height="540" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <!-- Dark to Orange Gradient Background -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#000000;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ca720b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cloudGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ca720b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#gradient)" />
+
+  <!-- Orange to Black Cloud Silhouettes -->
+  <path d="M0 400C200 350 400 450 600 400C800 350 960 450 960 400L960 540L0 540Z" fill="url(#cloudGradient)" opacity="0.9"></path>
+  <path d="M0 300C240 250 480 350 720 300C960 250 960 350 960 540L0 540Z" fill="url(#cloudGradient)" opacity="0.7"></path>
+  <path d="M0 200C320 150 640 250 960 200L960 540L0 540Z" fill="url(#cloudGradient)" opacity="0.5"></path>
+</svg>
