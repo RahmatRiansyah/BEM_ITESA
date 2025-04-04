@@ -1,6 +1,6 @@
 ---
-title: "About Me"
-subtitle: "Let me speak about me"
+title: "Badan Eksekutive Mahasiswa ITESA"
+subtitle: "Kabinet Harmoni"
 description: "Descrizione da rivedere se è un doppione subtitle"
 date: 2022-04-26T21:28:23+02:00
 lastmod: 2022-04-26T21:28:23+02:00
