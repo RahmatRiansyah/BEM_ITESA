@@ -1,7 +1,7 @@
 ---
 title: "Badan Eksekutive Mahasiswa ITESA"
 subtitle: "Kabinet Harmoni"
-description: "Descrizione da rivedere se è un doppione subtitle"
+description: "ini untuk semua kegiatan bem"
 date: 2022-04-26T21:28:23+02:00
 lastmod: 2022-04-26T21:28:23+02:00
 draft: false
@@ -18,13 +18,12 @@ instagram: "https://www.instagram.com/antedoro/"
 alt: "IO"
 
 resources:
-- name: "featured-image"
-  src: "tu.jpg"
-- name: "featured-image-preview"
-  src: "tu.jpg"
+  - name: "featured-image"
+    src: "tu.jpg"
+  - name: "featured-image-preview"
+    src: "tu.jpg"
 
 weight: 1
-
 # tags: [tag1, tag2, tag3, tag4]
 # categories: [category]
 
