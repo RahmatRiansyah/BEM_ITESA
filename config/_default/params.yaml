@@ -35,12 +35,13 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "UAS Pengantar RPL"
+      text: "BEM ITESA"
+      image: "assets/media/avatar.png"
 
 # Site footer
 footer:
   copyright:
-    notice: "© {2024} Rahmat Riansyah. This work is licensed under {license}."
+    notice: "© {2025} Badan Eksekutif Mahasiswa ITESA. This work is licensed under {license}."
     license:
       enable: true
       allow_derivatives: false

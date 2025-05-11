@@ -3,7 +3,7 @@
 title: Badan Eksekutif Mahasiswa
 
 # Name pronunciation (optional)
-name_pronunciation: ᨔᨗᨑᨗ ᨊ ᨄᨌᨙ
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: BEM
@@ -11,7 +11,7 @@ last_name: ITESA
 
 # Status emoji
 status:
-  icon: 
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -42,7 +42,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/rahmat-riansyah8
 
-interests:
+Departemen:
   - PPSDM
   - HUBDALU
   - KOMINFO
@@ -51,7 +51,7 @@ education:
   - area: S1 Software Engineering
     institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
     date_start: 2023-10-07
-    date_end: 
+    date_end:
     summary: |
       Relevant courses: Learning the systematic processes associated with project design, programming languages, development, testing, maintenance, and software management. Able to maintain high GPAs at both of his studies with many involvements in organizations.
     button:
@@ -113,7 +113,7 @@ skills:
         description: ""
         percent: 80
         icon: code-bracket
-      
+
   - name: Hobbies
     color: "#eeac02"
     color_border: "#f0bf23"
@@ -146,14 +146,14 @@ awards:
     url: https://drive.google.com/file/d/1EEeoRLPXhAlBGrZxcz90s58ioHE6c1y0/view?usp=sharing
     date: "2024-05-16"
     awarder: Microsoft
-    icon: 
+    icon:
     summary: |
       I studied the foundational concept of learning path Microsoft Security, Compliance, and Identity Fundamentals: Describe the concepts of security, compliance, and identity
   - title: Certificate Internasional Bootcamp Data Analyst
     url: https://drive.google.com/file/d/1i9j2zsAXMeAEmC4yCnkG-ongQ0-TW580/view?usp=sharing
     date: "2024-05-28"
     awarder: SmarPath
-    icon: 
+    icon:
     summary: |
       This International Bootcamp in Data Analysis provided a comprehensive overview of data analysis techniques and tools. Throughout the course, I gained hands-on experience in data manipulation, statistical analysis, and data visualization using popular programming languages such as Python and R. 
       learned:
@@ -167,7 +167,7 @@ awards:
     certificate_url: https://drive.google.com/file/d/1NOwMWab2ArRv0j75pyGVA7szm-_HP9ab/view?usp=drive_link
     date: "2023-01-21"
     awarder: InfraDigital
-    icon: 
+    icon:
     summary: |
       Training Hard Skill - Hybrid Learning:
 
@@ -175,7 +175,7 @@ awards:
       • Incident Response, Business       Continuity, and Disaster Recovery Concepts
       • Access Control Concepts
       • Network Security 
-      
+
       Security Operations
       • SC-900: Describe the concepts of security, compliance, and identity
       • SC-900: Describe the capabilities of Microsoft Entra ID   
