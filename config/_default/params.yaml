@@ -6,7 +6,16 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: custom
+  custom_color:
+    primary: "#007bff"
+    secondary: "#6c757d"
+    success: "#28a745"
+    info: "#17a2b8"
+    warning: "#ffc107"
+    danger: "#dc3545"
+    light: "#f8f9fa"
+    dark: "#343a40"
 
 # SEO
 marketing:
@@ -36,7 +45,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "BEM ITESA"
-      image: "assets/media/avatar.png"
+      image: "assets/media/logo.png"
 
 # Site footer
 footer:
