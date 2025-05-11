@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Rahmat Riansyah
+title: Badan Eksekutif Mahasiswa
 
 # Name pronunciation (optional)
 name_pronunciation: ᨔᨗᨑᨗ ᨊ ᨄᨌᨙ
 
 # Full name (for SEO)
-first_name: Rahmat
-last_name: Riansyah
+first_name: BEM
+last_name: ITESA
 
 # Status emoji
 status:
-  icon: 🐺
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Engineering Student
+role: Kabinet Harmoni
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -43,9 +43,9 @@ profiles:
     url: https://www.linkedin.com/in/rahmat-riansyah8
 
 interests:
-  - Artificial Intelligence
-  - CyberSecurity
-  - Sport
+  - PPSDM
+  - HUBDALU
+  - KOMINFO
 
 education:
   - area: S1 Software Engineering
@@ -186,6 +186,6 @@ awards:
       English Class Session
 ---
 
-## About Me
+## About
 
-As a software engineering student, I am highly focused on applying advanced technologies to support continued digital evolution. With practical experience in the world of multilevel marketing, I have a deep understanding of the market and how to move products through platforms such as FB Marketplace and Shopee. While continuing to learn, I am looking for freelance opportunities that will broaden my understanding of software engineering and sharpen the communication skills I have mastered.
+Badan Eksekutif Mahasiswa Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang merupakan satu-satunya lembaga eksekutif mahasiswa yang berada di Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang yang bertanggungjawab kepada institusi.

@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Surat Keputusan
         url: https://drive.google.com/file/d/13T5Fzm80i1R3KQFEXD-b04DGRXy3Q-TP/view?usp=drive_link
     design:
       css_class: dark
@@ -32,23 +32,16 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: "📚 My Research"
+      title: "About"
       subtitle: "Exploring Software Engineering Innovations"
       text: |-
-        As a Software Engineering student, I am particularly interested in the following areas:
-
-        - **Machine Learning**: Exploring how algorithms can learn from data to make predictions and improve decision-making.
-        - **Web Development**: Building responsive and user-friendly web applications using modern frameworks.
-        - **Mobile App Development**: Creating mobile applications that enhance user experience and accessibility.
-        - **Open Source Contributions**: Actively contributing to open source projects to improve my coding skills and collaborate with other developers.
-
-        I am always looking for opportunities to collaborate on exciting projects and research. Please feel free to reach out if you are interested in working together! 😃
+        Badan Eksekutif Mahasiswa Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang merupakan satu-satunya lembaga eksekutif mahasiswa yang berada di Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang yang bertanggungjawab kepada institusi.
     design:
       columns: "1"
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Event
       filters:
         folders:
           - publication
@@ -66,20 +59,20 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  #- block: collection
-  #  id: talks
- #   content:
- #     title: Recent & Upcoming Talks
- #     filters:
-  #      folders:
-  #        - event
-   # design:
-   #   view: article-grid
-    #  columns: 1
+  - block: collection
+    id: talks
+    content:
+      title: Team
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
   - block: collection
     id: news
     content:
-      title: Recent Activity
+      title: contact
       subtitle: ""
       text: ""
       # Page type to display. E.g. post, talk, publication...
